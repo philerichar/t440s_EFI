@@ -1,5 +1,6 @@
 # t440s_EFI
 Please do this:
+
 Security Chip > Security Chip [Disabled]
 
 Anti-Theft > Intel (R) AT Module Activation > Current Setting [Disabled]
